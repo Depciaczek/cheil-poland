@@ -13,7 +13,7 @@ This repository contains the code for my recruitment project submitted to Cheil 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deociaczek/cheil-poland.git
+   git clone https://github.com/Depciaczek/cheil-poland.git
    cd cheil-poland
 
 2. Install dependencies:
